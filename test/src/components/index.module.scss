@@ -1,0 +1,13 @@
+.mainComponent {
+    .containerWrapper {
+        display: flex;
+        justify-content: flex-start;
+    }
+}
+
+.container {
+    width: 600px;
+    height: 600px;
+    border: 10px solid black;
+    top: 200px;
+}
